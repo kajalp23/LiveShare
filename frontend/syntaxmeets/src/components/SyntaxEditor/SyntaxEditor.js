@@ -315,7 +315,7 @@ const SyntaxEditor = (props) => {
               fontWeight: "800",
             }}
           >
-            &nbsp;Syntax<span style={{ color: "#FFD500" }}>Editor</span>
+            &nbsp;LiveShare<span style={{ color: "#FFD500" }}>Editor</span>
           </Typography>
           <Toolbar>
             <FormControl
